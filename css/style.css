@@ -144,15 +144,17 @@
     color: rgb(207, 203, 203);
 }
 .bottomHalf h2 {
-    font-size: 15px;
+    font-size: 41px;
     font-family: "Quicksand", sans-serif;
+    padding-top: 21px;
+    padding-left: 26px;
 }
 
 .bottomHalf button {
     background-color: rgb(79, 79, 133);
     color: rgb(226, 225, 225);
     border-radius: 5px;
-    font-size: 7px;
+    font-size: 20px;
     font-family: "Quicksand", sans-serif;
 }
 
@@ -161,8 +163,12 @@
     font-family: "Quicksand", sans-serif;
 }
 
+.services ul {
+    font-size: 17px;
+}
+
 .opportunities {
-    font-size: 8px;
+    font-size: 17px;
     font-family: "Quicksand", sans-serif;
 }
 
@@ -172,7 +178,11 @@
 }
 
 .news img {
-    height: 32px;
+    height: 79px;
+}
+
+.news p {
+    font-size: 17px;
 }
 
 .end {
@@ -180,7 +190,7 @@
 }
 
 .detroPol p {
-    font-size: 7px;
+    font-size: 13px;
     font-family: "Quicksand", sans-serif;
     color: rgb(207, 207, 207);
 }
