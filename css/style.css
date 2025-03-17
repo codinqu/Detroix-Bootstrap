@@ -300,3 +300,58 @@
         color: rgb(207, 207, 207);
     }
 }
+
+@media (max-width: 992px) {
+
+    .topBar p {
+        padding-top: 34px;
+    }
+
+    .navBar ul {
+        padding-top: 36px;
+        padding-left: 23px;
+        padding-right: 43px;
+    }
+
+    .title img {
+        padding-left: 27px;
+        max-width: 114%;
+    }
+
+    .buttonS ul {
+        font-size: 11px;
+        padding-left: 60px;
+        padding-right: 90px;
+        margin-top: 51px;
+    }
+
+    .carouselButtons {
+        margin-left: 14px;
+        padding-top: 2px;
+    }
+
+    .carouselButtons button {
+        height: 17px;
+        width: 17px;
+    }
+
+    .threeSs h1 {
+        font-size: 34px;
+    }
+
+    .threeSs button {
+        font-size: 15px;
+    }
+
+    .bottomHalf h2 {
+        font-size: 27px;
+    }
+
+    .bottomHalf button {
+        font-size: 14px;
+    }
+
+    .detroPol p {
+        font-size: 11px;
+    }
+}
